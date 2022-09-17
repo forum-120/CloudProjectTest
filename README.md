@@ -12,7 +12,8 @@
 这里作如下操作：rm -rf /usr/local/bin/node 删除了原路径，则可以正常使用最近用n安装的nodejs
 然后使用hash -r，则发现已经切换到最新版本
 
-![931663335281_ pic](https://user-images.githubusercontent.com/71775813/190836763-d0660e85-fbe4-436f-8e99-9d8c08f2eca4.jpg)
+<img width="1134" alt="image" src="https://user-images.githubusercontent.com/71775813/190836923-81ba81f2-a118-4a35-b927-91328fa52ed1.png">
+
 
 之后再使用npm run dev，则开启服务成功
 
